@@ -1,0 +1,22 @@
+package com.example.tom_jerry.ui.theme
+
+import android.annotation.SuppressLint
+import android.app.Notification
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+val JerryStoreBackground = Color(0xFFEEF4F6)
+val TomKitchenBackGround = Color(0xFF035484).copy(alpha = 0.5f)
+
+val PrimaryTextColor = Color(0xFF1F1F1E)
+val SecondaryTextColor = Color(0xFF969799)
+val PlaceholderFiled = Color(0xFF969799)
+
+val NotificationButtonColor = Color(0x1F1F1E26)
